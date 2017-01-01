@@ -4,8 +4,12 @@
 // Third: Update from GitHub 2
 // Fourth: Update from local repository
 // Final: Update from GitHub 2
+
 // Update from Local Repo
 // Last Update from Local Repo
+=======
+// Update GitHub
+>>>>>>> origin/master
 
 print("Hello World")
 print("Tell Your World")
